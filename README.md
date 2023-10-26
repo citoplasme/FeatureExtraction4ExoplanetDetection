@@ -10,3 +10,7 @@ The data used in this work comes from https://www.kaggle.com/datasets/keplersmac
   * Results from statistical tests applied to base data, as well as some performance metrics.  
 * /src
   * All source code.
+
+#### Note:
+
+As we used a HPC cluster to run part of the code, some paths might not be accurate.
