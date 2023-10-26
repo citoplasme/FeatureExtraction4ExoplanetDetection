@@ -5,7 +5,7 @@ The data used in this work comes from https://www.kaggle.com/datasets/keplersmac
 ### Folder structure:
 
 * /data
-  * All data files -- not available on Github due to size limitations.
+  * All data files -- Due to size limitations, some files were compressed.
 * /metrics
   * Results from statistical tests applied to base data, as well as some performance metrics.  
 * /src
